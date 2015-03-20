@@ -13,4 +13,4 @@ This project allows to import TFS Projects to Bitbucket repository, anyway, it i
 * Edit file 'upRepositoryGit.sh', changing the values of `{user-bitbucket}`, `{password-bitbucket}` and `{team-bitbucket}` to your own.
  
 * Save files and execute `./executor.sh` in your bash.
-Before download all your projects, execute `./upRepositoryGit.sh` to create a repository and push your code.
+After you download all your projects, execute `./upRepositoryGit.sh` to create a repository and push your code.
